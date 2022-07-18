@@ -4,4 +4,4 @@
 <h3>I'm super hot</h3>
 <h3>I'm super hot</h3>
 <h3>I'm super hot</h3>
-<h3>and I'm also super cool.</h3>
+<h3>and I'm also super <strong>cool</strong>.</h3>
