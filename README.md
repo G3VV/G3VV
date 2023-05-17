@@ -1,6 +1,3 @@
-# Hey, I'm G3V.
-
-![G3V.co](https://github-readme-stats.vercel.app/api?username=g3vv&show_icons=true&theme=midnight-purple)
----------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3vv&langs_count=8&theme=midnight-purple)
-
+## Hey, I'm G3V. 👋
+![status](https://dev.discordprofiles.me/badge/status/1009255753447637062?simple=true)
+[![spotify](https://dev.discordprofiles.me/badge/spotify/1009255753447637062)](https://dev.discordprofiles.me/openspotify/1009255753447637062)
